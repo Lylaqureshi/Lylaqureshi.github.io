@@ -1,0 +1,53 @@
+@import url('https://fonts.googleapis.com/css?family=Baskervville|Pacifico|Roboto:300,400,700&display=swap');
+body {
+  background-color: #ffffff;
+  color: #ff9900;
+  font-family: "Roberto", sans-serif;
+  border: 5px solid #ffff99;
+  border-style: dotted;
+}
+h1 {
+  text-align: center;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  background-color: white;
+  padding: 30px 0;
+  margin: 0 auto;
+  width: 500px;
+  color: black;
+}
+h2 {
+  font-weight: normal;
+  font-size: 20px;
+  text-align: center;
+  color: black;
+  font-style: italic;
+  padding: 30px 0;
+  letter-spacing: 3px;
+}
+p {
+  font-size: 17px;
+  color: black;
+  padding: 30px 0;
+}
+ul {
+  letter-spacing: 3px;
+  color: #000000;
+}
+#first-list {
+  background-color: #e6e6ff;
+  text-align: center;
+}
+#first-list li {
+  display: inline-block;
+  margin: 20px;
+}
+.mammals {
+  color: black;
+  font-weight: bold;
+}
+img {
+  display: block;
+  margin: 0 auto;
+  width: 400px;
+}
